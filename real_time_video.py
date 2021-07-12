@@ -17,7 +17,7 @@ EMOTIONS = ["angry", "disgust", "scared",
 
 # starting video streaming
 cv2.namedWindow('your_face')
-camera = cv2.VideoCapture(1)
+camera = cv2.VideoCapture(0)
 while True:
     frame = camera.read()[1]
     # reading the frame
