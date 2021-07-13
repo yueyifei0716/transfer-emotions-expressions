@@ -1,4 +1,4 @@
 .vscode
-models
-haarcascade_files
-emojis
+models/
+haarcascade_files/
+emojis/
