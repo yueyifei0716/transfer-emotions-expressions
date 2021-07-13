@@ -1,4 +1,5 @@
 .vscode
+.idea
 models/
 haarcascade_files/
 emojis/
