@@ -1,8 +1,8 @@
 import sys
 import time
 import argparse
-from video_chat import Video_Server, Video_Client
-from audio_chat import Audio_Server, Audio_Client
+from chatroom.video_chat import Video_Server, Video_Client
+from chatroom.audio_chat import Audio_Server, Audio_Client
 
 parser = argparse.ArgumentParser()
 
