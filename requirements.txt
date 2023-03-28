@@ -78,7 +78,7 @@ parso @ file:///tmp/build/80754af9/parso_1617223946239/work
 pathlib==1.0.1
 pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
-Pillow==8.1.2
+Pillow==9.3.0
 powerline-status==2.7
 prometheus-client @ file:///tmp/build/80754af9/prometheus_client_1623189609245/work
 prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1616415428029/work
