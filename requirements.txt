@@ -8,7 +8,7 @@ attrs @ file:///tmp/build/80754af9/attrs_1620827162558/work
 backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
 bleach @ file:///tmp/build/80754af9/bleach_1612211392645/work
 cachetools==4.2.1
-certifi==2021.5.30
+certifi==2022.12.7
 cffi @ file:///opt/concourse/worker/volumes/live/506ff722-306a-4142-6379-cfea99aadbed/volume/cffi_1625814701363/work
 chardet==4.0.0
 click==7.1.2
